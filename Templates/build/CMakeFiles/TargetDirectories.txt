@@ -1,0 +1,5 @@
+/Users/danielvega/Desktop/week4_exercises/Templates/build/CMakeFiles/edit_cache.dir
+/Users/danielvega/Desktop/week4_exercises/Templates/build/CMakeFiles/rebuild_cache.dir
+/Users/danielvega/Desktop/week4_exercises/Templates/build/source/CMakeFiles/Templates.dir
+/Users/danielvega/Desktop/week4_exercises/Templates/build/source/CMakeFiles/edit_cache.dir
+/Users/danielvega/Desktop/week4_exercises/Templates/build/source/CMakeFiles/rebuild_cache.dir

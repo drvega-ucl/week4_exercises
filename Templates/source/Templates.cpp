@@ -8,5 +8,9 @@ int main()
     int quad_int = quadratic(0, 2, 9, n_int);
     std::cout << quad_int << std::endl;
 
+    double n_double = 5.0;
+    double quad_double = quadratic(0.0,2.0,9.0,n_double);
+    std::cout << quad_double << std::endl;
+
     return 0;
 }
