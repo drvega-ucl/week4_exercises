@@ -33,9 +33,21 @@ class Cats : public Animal
 class Budgies : public Animal
 {
     public:
-    
+
     Budgies()
     {
         sound = "Tweet"; 
+    }
+};
+
+class Labradors : public Dogs{};
+
+class Terriers : public Dogs
+{
+    public:
+    
+    Terriers()
+    {
+        sound = "Yap";
     }
 };
