@@ -1,0 +1,6 @@
+/Users/danielvega/Desktop/week4_exercises/Animals/build/CMakeFiles/edit_cache.dir
+/Users/danielvega/Desktop/week4_exercises/Animals/build/CMakeFiles/rebuild_cache.dir
+/Users/danielvega/Desktop/week4_exercises/Animals/build/src/CMakeFiles/Animals.dir
+/Users/danielvega/Desktop/week4_exercises/Animals/build/src/CMakeFiles/animalsSpeak.dir
+/Users/danielvega/Desktop/week4_exercises/Animals/build/src/CMakeFiles/edit_cache.dir
+/Users/danielvega/Desktop/week4_exercises/Animals/build/src/CMakeFiles/rebuild_cache.dir
